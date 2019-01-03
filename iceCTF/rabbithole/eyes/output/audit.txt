@@ -1,0 +1,113 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri Sep  7 20:55:05 2018
+Invocation: foremost frame01.gif frame02.gif frame03.gif frame04.gif frame05.gif frame06.gif frame07.gif frame08.gif frame09.gif frame10.gif frame11.gif 
+Output directory: /home/josh/Code/ctf/ctf/iceCTF/rabbithole/eyes/output
+Configuration file: /usr/local/etc/foremost.conf
+------------------------------------------------------------------
+File: frame01.gif
+Start: Fri Sep  7 20:55:05 2018
+Length: 1 KB (1625 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.gif 	       1 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:55:05 2018
+------------------------------------------------------------------
+File: frame02.gif
+Start: Fri Sep  7 20:55:05 2018
+Length: 1 KB (1731 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+1:	00000000_1.gif 	       1 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:55:05 2018
+------------------------------------------------------------------
+File: frame03.gif
+Start: Fri Sep  7 20:55:05 2018
+Length: 2 KB (2299 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+2:	00000000_2.gif 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:55:05 2018
+------------------------------------------------------------------
+File: frame04.gif
+Start: Fri Sep  7 20:55:05 2018
+Length: 4 KB (4687 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+3:	00000000_3.gif 	       4 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:55:05 2018
+------------------------------------------------------------------
+File: frame05.gif
+Start: Fri Sep  7 20:55:05 2018
+Length: 6 KB (6744 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+4:	00000000_4.gif 	       6 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:55:05 2018
+------------------------------------------------------------------
+File: frame06.gif
+Start: Fri Sep  7 20:55:05 2018
+Length: 8 KB (8560 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+5:	00000000_5.gif 	       8 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:55:05 2018
+------------------------------------------------------------------
+File: frame07.gif
+Start: Fri Sep  7 20:55:05 2018
+Length: 10 KB (10419 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+6:	00000000_6.gif 	       1 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:55:05 2018
+------------------------------------------------------------------
+File: frame08.gif
+Start: Fri Sep  7 20:55:05 2018
+Length: 9 KB (10229 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+7:	00000000_7.gif 	       9 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:55:05 2018
+------------------------------------------------------------------
+File: frame09.gif
+Start: Fri Sep  7 20:55:05 2018
+Length: 12 KB (12724 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+8:	00000000_8.gif 	      12 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:55:05 2018
+------------------------------------------------------------------
+File: frame10.gif
+Start: Fri Sep  7 20:55:05 2018
+Length: 11 KB (11441 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+9:	00000000_9.gif 	      11 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:55:05 2018
+------------------------------------------------------------------
+File: frame11.gif
+Start: Fri Sep  7 20:55:05 2018
+Length: 11 KB (11720 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+10:	00000000_10.gif 	      10 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:55:05 2018
+
+11 FILES EXTRACTED
+	
+gif:= 11
+------------------------------------------------------------------
+
+Foremost finished at Fri Sep  7 20:55:05 2018

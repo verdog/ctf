@@ -1,0 +1,374 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri Sep  7 20:57:45 2018
+Invocation: foremost frame01.png frame02.png frame03.png frame04.png frame05.png frame06.png frame07.png frame08.png frame09.png frame10.png frame11.png frame12.png frame13.png frame14.png frame15.png frame16.png frame17.png frame18.png frame19.png frame20.png frame21.png frame22.png frame23.png frame24.png frame25.png frame26.png frame27.png frame28.png frame29.png frame30.png frame31.png frame32.png frame33.png frame34.png frame35.png frame36.png frame37.png frame38.png frame39.png frame40.png 
+Output directory: /home/josh/Code/ctf/ctf/iceCTF/rabbithole/error/output
+Configuration file: /usr/local/etc/foremost.conf
+------------------------------------------------------------------
+File: frame01.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (3038 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame02.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (3038 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+1:	00000000_1.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame03.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (3038 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+2:	00000000_2.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame04.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (3038 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+3:	00000000_3.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame05.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (3038 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+4:	00000000_4.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame06.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (3038 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+5:	00000000_5.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame07.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (3038 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+6:	00000000_6.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame08.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (2946 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+7:	00000000_7.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame09.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (2946 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+8:	00000000_8.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame10.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (2946 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+9:	00000000_9.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame11.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (2946 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+10:	00000000_10.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame12.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (2946 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+11:	00000000_11.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame13.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (2946 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+12:	00000000_12.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame14.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (2946 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+13:	00000000_13.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame15.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (3038 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+14:	00000000_14.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame16.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (3038 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+15:	00000000_15.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame17.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (3038 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+16:	00000000_16.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame18.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (3038 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+17:	00000000_17.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame19.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (3038 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+18:	00000000_18.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame20.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (3038 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+19:	00000000_19.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame21.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (3038 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+20:	00000000_20.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame22.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (2946 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+21:	00000000_21.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame23.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (2946 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+22:	00000000_22.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame24.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (2946 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+23:	00000000_23.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame25.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (2946 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+24:	00000000_24.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame26.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (2946 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+25:	00000000_25.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame27.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (2946 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+26:	00000000_26.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame28.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 2 KB (2946 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+27:	00000000_27.png 	       2 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame29.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 3 KB (3726 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+28:	00000000_28.png 	       3 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame30.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 3 KB (3726 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+29:	00000000_29.png 	       3 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame31.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 4 KB (4691 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+30:	00000000_30.png 	       4 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame32.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 4 KB (4691 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+31:	00000000_31.png 	       4 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame33.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 3 KB (3432 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+32:	00000000_32.png 	       3 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame34.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 3 KB (3432 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+33:	00000000_33.png 	       3 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame35.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 5 KB (5529 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+34:	00000000_34.png 	       5 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame36.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 5 KB (5529 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+35:	00000000_35.png 	       5 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame37.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 3 KB (3319 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+36:	00000000_36.png 	       3 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame38.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 3 KB (3319 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+37:	00000000_37.png 	       3 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame39.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 6 KB (6325 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+38:	00000000_38.png 	       6 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+------------------------------------------------------------------
+File: frame40.png
+Start: Fri Sep  7 20:57:45 2018
+Length: 6 KB (6325 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+39:	00000000_39.png 	       6 KB 	          0 	  (500 x 281)
+Finish: Fri Sep  7 20:57:45 2018
+
+40 FILES EXTRACTED
+	
+png:= 40
+------------------------------------------------------------------
+
+Foremost finished at Fri Sep  7 20:57:45 2018
